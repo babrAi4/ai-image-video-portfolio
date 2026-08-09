@@ -18,3 +18,6 @@ This portfolio showcases selected examples of my AI image and video creation wor
 Selected AI-generated image samples are available in this repository.
 
 More of my AI work can also be found on my social media profiles.
+## AI Image Samples
+
+Here are selected examples of my AI-generated image work.
