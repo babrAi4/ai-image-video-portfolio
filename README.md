@@ -24,4 +24,9 @@ Here are selected examples of my AI-generated image work.
 ![AI Image Sample](InShot_20260727_170856900.jpg)
 ## AI Video Samples
 
-Here are selected examples of my AI-generated video work.
+
+ Here are selected examples of my AI-generated video work.
+
+
+- [AI Video Sample 1](./InShot_20260724_213541129.mp4)
+- [AI Video Sample 2](./InShot_20260806_094316724.mp4)
