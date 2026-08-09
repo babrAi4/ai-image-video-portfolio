@@ -22,3 +22,6 @@ More of my AI work can also be found on my social media profiles.
 
 Here are selected examples of my AI-generated image work.
 ![AI Image Sample](InShot_20260727_170856900.jpg)
+## AI Video Samples
+
+Here are selected examples of my AI-generated video work.
