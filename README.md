@@ -1,32 +1,39 @@
-# ai-image-video-portfolio
+
+# AI Image & Video Portfolio
+
 ## About
 
-I create AI-generated images and videos using modern AI tools and creative workflows.
+I create AI-generated images and videos using modern AI tools combined with creative design workflows.
 
-This portfolio showcases selected examples of my AI image and video creation work.
+This portfolio showcases selected examples of my AI image and video creation work for businesses, social media, advertising, and creative projects.
 
-## Skills
+## Services
 
 - AI Image Generation
 - AI Video Creation
-- AI Content Creation
-- Creative AI Workflows
-- Freelancing
+- Social Media Designs
+- Business Banners & Advertisements
+- Promotional Visuals
+- Creative Content
+- Old Design to Modern Redesign
+- AI-Assisted Creative Workflows
 
 ## Portfolio
 
-Selected AI-generated image samples are available in this repository.
+Selected examples of my AI-generated image and video work are available in this repository.
 
-More of my AI work can also be found on my social media profiles.
+More creative work and updates can also be found through my social media profiles.
+
 ## AI Image Samples
 
-Here are selected examples of my AI-generated image work.
-![AI Image Sample](InShot_20260727_170856900.jpg)
+Examples of AI-generated images and creative visual concepts.
+
 ## AI Video Samples
 
+Examples of AI-generated videos and promotional visual content.
 
- Here are selected examples of my AI-generated video work.
+## Contact
 
+Available for freelance creative projects.
 
-- [AI Video Sample 1](./InShot_20260724_213541129.mp4)
-- [AI Video Sample 2](./InShot_20260806_094316724.mp4)
+Have an idea? Let's turn it into a professional visual.
