@@ -33,10 +33,9 @@ If you need AI images, videos, graphic designs, or social media content, feel fr
 
 GitHub: https://github.com/babrAi4
 
-Instagram: Add your Instagram link here
 
-LinkedIn: Add your LinkedIn link here
+Instagram: https://www.instagram.com/yasinbabr/
+LinkedIn: https://www.linkedin.com/in/yaseen-khan-079994428
 
----
 
 ⭐ Thank you for visiting my portfolio!
