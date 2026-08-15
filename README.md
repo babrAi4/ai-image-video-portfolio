@@ -1,39 +1,42 @@
 
-# AI Image & Video Portfolio
+# 🎨 AI Image & Video Portfolio
 
-## About
+Welcome to my AI Image & Video Portfolio.
 
-I create AI-generated images and videos using modern AI tools combined with creative design workflows.
+I create AI-generated images, AI videos, creative visual content, and social-media-ready designs.
 
-This portfolio showcases selected examples of my AI image and video creation work for businesses, social media, advertising, and creative projects.
+## 👨‍💻 About Me
 
-## Services
+I am a freelance creative professional interested in AI image generation, AI video creation, graphic design, and digital content.
 
-- AI Image Generation
-- AI Video Creation
-- Social Media Designs
-- Business Banners & Advertisements
-- Promotional Visuals
-- Creative Content
-- Old Design to Modern Redesign
-- AI-Assisted Creative Workflows
+## 🛠️ Services
 
-## Portfolio
+- 🤖 AI Image Generation
+- 🎬 AI Video Creation
+- 🎨 Graphic Design
+- 📱 Social Media Content
+- ✂️ Video Editing
+- 🖼️ Creative Visuals
+- 📢 Promotional Content
 
-Selected examples of my AI-generated image and video work are available in this repository.
+## 📂 My Work
 
-More creative work and updates can also be found through my social media profiles.
+This repository contains examples of my AI-generated images, videos, creative projects, and editing work.
 
-## AI Image Samples
+## 💼 Available for Freelance Work
 
-Examples of AI-generated images and creative visual concepts.
+I am available for freelance projects and collaborations.
 
-## AI Video Samples
+If you need AI images, videos, graphic designs, or social media content, feel free to contact me.
 
-Examples of AI-generated videos and promotional visual content.
+## 📩 Contact
 
-## Contact
+GitHub: https://github.com/babrAi4
 
-Available for freelance creative projects.
+Instagram: Add your Instagram link here
 
-Have an idea? Let's turn it into a professional visual.
+LinkedIn: Add your LinkedIn link here
+
+---
+
+⭐ Thank you for visiting my portfolio!
